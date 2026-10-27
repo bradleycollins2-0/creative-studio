@@ -2,6 +2,8 @@
 
 An archive of original AI-assisted creative projects: music compositions and illustrated manga.
 
+> **Upload status:** The README and project documentation are on GitHub. The image and audio binaries from the prepared Creative Studio ZIP have **not** yet been uploaded. The artwork and playback links below will work after those binaries are uploaded at the indicated paths. See [UPLOAD.md](UPLOAD.md) for steps.
+
 ## Projects
 
 ### Iron Fugue — Symphonic Metalcore
